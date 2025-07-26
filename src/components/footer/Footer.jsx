@@ -1,5 +1,6 @@
 import "./Footer.css";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   const [message, setMessage] = useState("");
@@ -31,7 +32,7 @@ const Footer = () => {
 
           <p>
             5A mikrarayon <b>Katta stoyankada</b> <br />m{"o'"}njal: Mahalla
-            kamitetni teparo{"g'"}ida
+            kamitetini teparo{"g'"}ida
           </p>
         </div>
 

@@ -1,7 +1,10 @@
+import { Link } from 'react-router-dom'
 import './Info.css'
 const Info = () => {
   return (
-    <div>Info</div>
+    <Link to="/info">
+        <div>Info</div>
+    </Link>
   )
 }
 
