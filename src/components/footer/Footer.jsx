@@ -70,7 +70,9 @@ const Footer = () => {
         />
         <button onClick={handleSend}>Yuborish</button>
         <h2>
-          <a href="">Biz haqimmizda {"ma'lumot"}</a>
+          <Link to="/info">
+            <a href="">Biz haqimmizda {"ma'lumot"}</a>
+          </Link>
         </h2>
       </div>
     </footer>

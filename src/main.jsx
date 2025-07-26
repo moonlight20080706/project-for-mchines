@@ -5,12 +5,14 @@ import { RouterProvider, createBrowserRouter, createRoutesFromElements, Route } 
 import App from './App';
 import Cart from './components/cart/Cart';
 import './index.css';
+import Info from './components/info/Info';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
       <Route path="/" element={<App />} />
       <Route path="/cart" element={<Cart />} />
+      <Route path='/info' element={<Info/>}/>
     </>
   )
 );
