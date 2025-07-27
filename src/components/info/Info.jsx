@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import './Info.css'
+import './info.css'
 const Info = () => {
   return (
     <Link to="/info">

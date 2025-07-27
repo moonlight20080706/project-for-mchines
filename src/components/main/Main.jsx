@@ -243,13 +243,13 @@ const allCards = {
     img: image,
     title: `Mahsulot ${i + 1}`,
     desc: 'Bu mahsulot haqida ma’lumot. Bu mahsulot haqida batafsil ma’lumot, agar siz batafsil ko‘rmoqchi bo‘lsangiz, ko‘proq tugmasini bosing.',
-    price: '$10',
+    price: '$23',
   })),
   "3": Array.from({ length: 6 }, (_, i) => ({
     img: image,
     title: `Mahsulot ${i + 1}`,
     desc: 'Bu mahsulot haqida ma’lumot. Bu mahsulot haqida batafsil ma’lumot, agar siz batafsil ko‘rmoqchi bo‘lsangiz, ko‘proq tugmasini bosing.',
-    price: '$10',
+    price: '$1023',
   })),
 };
 
