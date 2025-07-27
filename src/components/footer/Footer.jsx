@@ -32,7 +32,7 @@ const Footer = () => {
 
           <p>
             5A mikrarayon <b>Katta stoyankada</b> <br />m{"o'"}njal: Mahalla
-            kamitetini teparo{"g'"}ida
+            komitetini teparo{"g'"}ida
           </p>
         </div>
 
