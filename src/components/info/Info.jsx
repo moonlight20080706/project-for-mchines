@@ -3,7 +3,9 @@ import './info.css'
 const Info = () => {
   return (
     <Link to="/info">
-        <div>Info</div>
+        <div>
+            <h1>T{"o'g'"}irlash ishlari olib borilmoqda</h1>
+        </div>
     </Link>
   )
 }

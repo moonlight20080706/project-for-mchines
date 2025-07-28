@@ -32,7 +32,8 @@ const Footer = () => {
 
           <p>
             5A mikrarayon <b>Katta stoyankada</b> <br />m{"o'"}njal: Mahalla
-            komitetini teparo{"g'"}ida
+            komite
+            tini teparo{"g'"}ida
           </p>
         </div>
 
@@ -72,7 +73,7 @@ const Footer = () => {
         <button onClick={handleSend}>Yuborish</button>
         <h2>
           <Link to="/info">
-            <a href="">Biz haqimmizda {"ma'lumot"}</a>
+            <p>Biz haqimmizda {"ma'lumot"}</p>
           </Link>
         </h2>
       </div>
